@@ -136,4 +136,3 @@ npm start
 
 ---
 
-📌 *Note*: This project is not hosted online. Please follow the steps above to run it on your system.
