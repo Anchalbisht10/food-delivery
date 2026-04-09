@@ -134,39 +134,39 @@ npm start
 ![Frontpage](ss_of_project/frontpage.png)  
 This is the landing page of the food delivery application, giving users an overview of the platform and easy access to navigation.
 
-![Menu](FOOD-DEL/ss_of_project/menu.png)  
+![Menu](ss_of_project/menu.png)  
 Displays the complete menu with food items, details, and prices for users to browse and select.
 
-![Contact](FOOD-DEL/ss_of_project/home_contact.png)  
+![Contact](ss_of_project/home_contact.png)  
 Shows the contact section where users can reach out for support, inquiries, or feedback.
 
-![Orders & Logout](FOOD-DEL/ss_of_project/orders_logout.png)  
+![Orders & Logout](ss_of_project/orders_logout.png)  
 User dashboard screen that lists orders and provides the option to securely log out.
 
-![Orders](FOOD-DEL/ss_of_project/orders.png)  
+![Orders](ss_of_project/orders.png)  
 Detailed view of all orders placed by the user, including status and item details.
 
-![Cart & Signup](FOOD-DEL/ss_of_project/cart_user.png)  
+![Cart & Signup](ss_of_project/cart_user.png)  
 Cart overview with a signup button for new users to create an account before checkout.
 
-![Cart](FOOD-DEL/ss_of_project/cart.png)  
+![Cart](ss_of_project/cart.png)  
 Shows items added to the cart, ready for review before proceeding to delivery.
 
-![Delivery](FOOD-DEL/ss_of_project/delivery.png)  
+![Delivery](ss_of_project/delivery.png)  
 Form where users enter delivery address and choose payment method (Cash on Delivery or online).
 
-![Payment](FOOD-DEL/ss_of_project/payment.png)  
+![Payment](ss_of_project/payment.png)  
 Final step of the checkout process where users confirm and complete payment.
 
 ## Admin Panel
 
-![Add Item](FOOD-DEL/ss_of_project/admin_add.png)  
+![Add Item](ss_of_project/admin_add.png)  
 Admin dashboard screen for adding new food items into the system.
 
-![Item List](FOOD-DEL/ss_of_project/admin_list.png)  
+![Item List](ss_of_project/admin_list.png)  
 Displays all food items added by the admin, with details for easy management.
 
-![Orders](FOOD-DEL/ss_of_project/admin_orders.png)  
+![Orders](ss_of_project/admin_orders.png)  
 Admin view of customer orders, allowing tracking and management of the delivery process.
 
 
