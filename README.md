@@ -132,7 +132,7 @@ npm start
 The backend and frontend of this project are already deployed and can be accessed directly:
 
 - **Backend Repository & Live API**: [Backend GitHub Repository](https://github.com/Anchalbisht10/fooddel-backend) | [Live API Link](https://fooddel-backend-5yfj.onrender.com/)
-- **Frontend Repository & Live Site**: [Frontend GitHub Repository](https://github.com/Anchalbisht10/fooddel-frontend) | [Live Frontend Link](https://fooddel-frontend-pi.vercel.app/cart)
+- **Frontend Repository & Live Site**: [Frontend GitHub Repository](https://github.com/Anchalbisht10/fooddel-frontend) | [Live Frontend Link](https://fooddel-frontend-pi.vercel.app/)
 
 > You can explore this project live without setting up locally by visiting the above links.
 
