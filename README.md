@@ -131,7 +131,7 @@ npm start
 
 ## Frontend
 
-![Frontpage](FOOD-DEL/ss_of_project/frontpage.png)  
+![Frontpage](ss_of_project/frontpage.png)  
 This is the landing page of the food delivery application, giving users an overview of the platform and easy access to navigation.
 
 ![Menu](FOOD-DEL/ss_of_project/menu.png)  
