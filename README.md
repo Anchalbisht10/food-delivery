@@ -126,6 +126,17 @@ npm start
 - Frontend → 🔗 [http://localhost:3000](http://localhost:3000)  
 - Admin Panel → 🔗 [http://localhost:3001](http://localhost:3001) (or whichever port it’s configured to)  
 
+
+## Live Project Deployment
+
+The backend and frontend of this project are already deployed and can be accessed directly:
+
+- **Backend Repository & Live API**: [Backend GitHub Repository](https://github.com/Anchalbisht10/fooddel-backend) | [Live API Link](https://fooddel-backend-5yfj.onrender.com/)
+- **Frontend Repository & Live Site**: [Frontend GitHub Repository](https://github.com/Anchalbisht10/fooddel-frontend) | [Live Frontend Link](https://fooddel-frontend-pi.vercel.app/cart)
+
+> You can explore this project live without setting up locally by visiting the above links.
+
+
 ---
 # Screenshots of Projects
 
