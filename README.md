@@ -154,12 +154,6 @@ Shows the contact section where users can reach out for support, inquiries, or f
 ![Orders & Logout](ss_of_project/orders_logout.png)  
 User dashboard screen that lists orders and provides the option to securely log out.
 
-![Orders](ss_of_project/orders.png)  
-Detailed view of all orders placed by the user, including status and item details.
-
-![Cart & Signup](ss_of_project/cart_user.png)  
-Cart overview with a signup button for new users to create an account before checkout.
-
 ![Cart](ss_of_project/cart.png)  
 Shows items added to the cart, ready for review before proceeding to delivery.
 
@@ -180,7 +174,7 @@ Displays all food items added by the admin, with details for easy management.
 ![Orders](ss_of_project/admin_orders.png)  
 Admin view of customer orders, allowing tracking and management of the delivery process.
 
-
+---
 
 ## 🙋 About the Developer
 
@@ -189,3 +183,5 @@ Admin view of customer orders, allowing tracking and management of the delivery 
 💻 [GitHub: Anchalbisht10](https://github.com/Anchalbisht10)
 
 ---
+⭐ If you like this project
+Give it a ⭐ on GitHub and feel free to contribute!
