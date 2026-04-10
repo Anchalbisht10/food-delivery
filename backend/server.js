@@ -1,11 +1,14 @@
 import express  from "express"
+import dotenv from 'dotenv';
 import cors from 'cors'
-import { connectDB } from "./config/db.js"
+import { connectDb } from "./config/db.js"
 import userRouter from "./routes/userRoute.js"
 import foodRouter from "./routes/foodRoute.js"
 import 'dotenv/config'
 import cartRouter from "./routes/cartRoute.js"
 import orderRouter from "./routes/orderRoute.js"
+
+dotenv.config(); // loads .env variables
 
 // app config
 const app = express()
@@ -17,7 +20,7 @@ app.use(express.json())
 app.use(cors())
 
 // db connection
-connectDB()
+connectDb()
 
 // api endpoints
 app.use("/api/user", userRouter)
