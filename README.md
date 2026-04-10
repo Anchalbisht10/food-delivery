@@ -165,7 +165,7 @@ Final step of the checkout process where users confirm and complete payment.
 
 ## Admin Panel
 
-![Add Item](ss_of_project/admin_add.png)  
+![Add Item](ss_of_project/admin_add.png)
 Admin dashboard screen for adding new food items into the system.
 
 ![Item List](ss_of_project/admin_list.png)  
