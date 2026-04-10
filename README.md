@@ -139,7 +139,39 @@ The backend and frontend of this project are already deployed and can be accesse
 
 ---
 # Screenshots of Projects
+## Frontend
 
+![Frontpage](ss/frontpage.png)  
+This is the landing page of the food delivery application, giving users an overview of the platform and easy access to navigation.
+
+![Menu](ss/menu.png)  
+Displays the complete menu with food items, details, and prices for users to browse and select.
+
+![Contact](ss/home_contact.png)  
+Shows the contact section where users can reach out for support, inquiries, or feedback.
+
+![Orders & Logout](ss/orders_logout.png)  
+User dashboard screen that lists orders and provides the option to securely log out.
+
+![Cart](ss/cart.png)  
+Shows items added to the cart, ready for review before proceeding to delivery.
+
+![Delivery](ss/delivery.png)  
+Form where users enter delivery address and choose payment method (Cash on Delivery or online).
+
+![Payment](ss/payment.png)  
+Final step of the checkout process where users confirm and complete payment.
+
+## Admin Panel
+
+![Add Item](ss/admin_add.png)
+Admin dashboard screen for adding new food items into the system.
+
+![Item List](ss/admin_list.png)  
+Displays all food items added by the admin, with details for easy management.
+
+![Orders](ss/admin_orders.png) 
+Admin view of customer orders, allowing tracking and management of the delivery process.
 ---
 
 ## 🙋 About the Developer
